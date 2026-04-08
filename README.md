@@ -7,13 +7,16 @@
 
 ## 📸 Screenshots
 
-| Marketplace | Weather | Networking | Expenses |
-|-------------|---------|------------|----------|
-| ![Marketplace](https://www.upwork.com/att/download/portfolio/persons/uid/1920009380803930458/profile/projects/files/9ab41e31-d7dd-4ec8-b31e-9e3cd4757efe) | ![Weather](https://www.upwork.com/att/download/portfolio/persons/uid/1920009380803930458/profile/projects/files/ea839b47-3fc3-484a-8bc3-814b5fb99d17) | ![Network](https://www.upwork.com/att/download/portfolio/persons/uid/1920009380803930458/profile/projects/files/410da8a8-a105-4cbf-a0a6-1a501707d68b) | ![Cart]([assets/ProjectDemo/expenses.jpeg](https://www.upwork.com/att/download/portfolio/persons/uid/1920009380803930458/profile/projects/files/58ab9ed3-271f-4b4f-b655-d783935d57ff)) |
+## 📸 Screenshots
 
-|Chat | Virtual Meeting |
-|------------------|----------------|------|------------------|
+| Marketplace | Weather | Networking | Cart |
+|-------------|---------|------------|------|
+| ![Marketplace](https://www.upwork.com/att/download/portfolio/persons/uid/1920009380803930458/profile/projects/files/9ab41e31-d7dd-4ec8-b31e-9e3cd4757efe) | ![Weather](https://www.upwork.com/att/download/portfolio/persons/uid/1920009380803930458/profile/projects/files/ea839b47-3fc3-484a-8bc3-814b5fb99d17) | ![Networking](https://www.upwork.com/att/download/portfolio/persons/uid/1920009380803930458/profile/projects/files/410da8a8-a105-4cbf-a0a6-1a501707d68b) | ![Cart](https://www.upwork.com/att/download/portfolio/persons/uid/1920009380803930458/profile/projects/files/58ab9ed3-271f-4b4f-b655-d783935d57ff) |
+
+| Chat | Virtual Meeting |
+|------|----------------|
 | ![Chat](assets/image2.png) | ![Meeting](https://www.upwork.com/att/download/portfolio/persons/uid/1920009380803930458/profile/projects/files/3fbf31ff-b557-47c8-b143-1ab414438fcd) |
+
 
 <br/>
 
